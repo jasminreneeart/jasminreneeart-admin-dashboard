@@ -11,8 +11,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/test-coaster',
-  assetPrefix: '/test-coaster/',
+  basePath: '/jasminreneeart-admin-dashboard',
+  assetPrefix: '/jasminreneeart-admin-dashboard/',
 }
 
 export default nextConfig
