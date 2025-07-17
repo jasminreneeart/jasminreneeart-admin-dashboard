@@ -747,7 +747,7 @@ export default function CoasterColorTester() {
           <div className="lg:col-span-2">
             <Card className="w-full h-full">
               <CardHeader>
-                <CardTitle className="text-center tracking-wider font-semibold">{"PREVIEW"}</CardTitle>
+                <CardTitle className="text-center tracking-wider font-semibold">{"PREVIEWs"}</CardTitle>
                 <CardDescription className="text-center">
                   {selectedBaseColor.name} with {selectedAccentColor.name} accent
                 </CardDescription>
