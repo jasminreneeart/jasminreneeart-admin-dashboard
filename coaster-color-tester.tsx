@@ -817,7 +817,7 @@ export default function CoasterColorTester() {
             {/* Base Colors */}
             <Card>
               <CardHeader>
-                <CardTitle className="text-center tracking-wider">{"COASTER COLOR"}</CardTitle>
+                <CardTitle className="text-center tracking-wider">{"COASTER COLORS"}</CardTitle>
                 <CardDescription className="text-center">Select your pigment color </CardDescription>
               </CardHeader>
               <CardContent>
